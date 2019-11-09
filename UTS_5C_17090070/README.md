@@ -10,7 +10,3 @@ Customer/member:
 
     Username: aaa@gmail.com
     Password: aaa
-
-Semoga bermanfaat.
-
-malescoding.com
