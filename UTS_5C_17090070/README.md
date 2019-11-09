@@ -1,4 +1,4 @@
-#Aplikasi Pemesanan Tiket Bus Online (PHP, MySQL, CMS Lokomedia)
+#Aplikasi Pemesanan Tiket Bus Online
 Login pengguna:
 
 Administrator:
